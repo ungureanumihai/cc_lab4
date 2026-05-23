@@ -2,3 +2,4 @@ Prima linie in f2
 Linia 2 din feature2
 Linia 3 din feature2
 Linia 1 din feature4
+Linia 2 din feature4
