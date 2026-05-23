@@ -1,1 +1,2 @@
 Prima linie in f2
+Linia 2 din feature2
